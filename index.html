@@ -1,51 +1,24 @@
 <!doctype html>
-<html lang="en">
+<html lang="uk">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Лого-ігри</title>
-    <script src="libs/jquery-3.6.0.min.js"></script>
-    <script src="libs/lodash.min.js"></script>
+    <title>Логос</title>
+    
+    <script src="js/lib/vue.js"></script>
+    <script src="js/lib/jquery-3.6.0.min.js"></script>
+    <script src="js/lib/lodash.min.js"></script>
+    <script src="js/lib/phaser.min.js"></script>
 
-    <script src="dist/js/config.js"></script>
-    <script src="dist/js/itemAnimations.js"></script>
-    <script src="dist/js/wordsData.js"></script>
-    <script src="dist/js/gamesData.js"></script>
-    <script src="dist/js/utils.js"></script>
-    <script src="dist/js/game.js"></script>
-
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="dist/css/main.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<div class="container">
-    <div class="nav" style="display: none">
-        <div class="button main-link"><span>На головну</span></div>
-    </div>
+    <div id="app"></div>
 
-    <div class="game-type-select-container menu-container"></div>
-    <div class="game-letters-select-container menu-container" style="display: none"></div>
-    <div class="game-select-container menu-container" style="display: none"></div>
-
-    <div class="game-container" style="display: none">
-        <div class="game-finished" style="display: none">
-            <h1>Гра завершена!</h1>
-        </div>
-
-        <div class="header">
-            <h1></h1>
-        </div>
-
-        <div class="custom-block"></div>
-
-        <div class="game-background-container"></div>
-        <div class="item-container"></div>
-        <div class="targets-container"></div>
-    </div>
-</div>
-
-<div class="footer">&copy; Зінченко Олена 2021</div>
+    <script src="js/gamesData.js"></script>
+    <script src="js/wordsData.js"></script>
+    <script type="module" src="js/app.js"></script>
 </body>
 </html>

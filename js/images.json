@@ -1,0 +1,1754 @@
+{
+    "images/backgrounds/forest1.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/forest2.jpg": {
+        "width": 960,
+        "height": 540
+    },
+    "images/backgrounds/forest3.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/forest4.jpg": {
+        "width": 626,
+        "height": 313
+    },
+    "images/backgrounds/forest5.jpg": {
+        "width": 655,
+        "height": 263
+    },
+    "images/backgrounds/night-town-1.jpg": {
+        "width": 1440,
+        "height": 900
+    },
+    "images/backgrounds/night-town-2.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/train.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/winter-2.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/winter-3.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/winter-4.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/winter-5.jpg": {
+        "width": 1920,
+        "height": 1080
+    },
+    "images/backgrounds/winter1.jpg": {
+        "width": 2560,
+        "height": 1600
+    },
+    "images/item-backgrounds/christmas-ball-green.png": {
+        "width": 450,
+        "height": 514
+    },
+    "images/item-backgrounds/christmas-ball-red.png": {
+        "width": 450,
+        "height": 514
+    },
+    "images/item-backgrounds/lifebuoy.png": {
+        "width": 500,
+        "height": 500
+    },
+    "images/item-backgrounds/raspberry.png": {
+        "width": 512,
+        "height": 512
+    },
+    "images/item-backgrounds/snowball.png": {
+        "width": 557,
+        "height": 552
+    },
+    "images/item-backgrounds/square.png": {
+        "width": 2,
+        "height": 2
+    },
+    "images/item-backgrounds/suitcase-1.png": {
+        "width": 451,
+        "height": 414
+    },
+    "images/other/cloud-md.png": {
+        "width": 297,
+        "height": 165
+    },
+    "images/other/firework.gif": {
+        "width": 500,
+        "height": 490
+    },
+    "images/other/wave1.png": {
+        "width": 1280,
+        "height": 50
+    },
+    "images/other/wave2.png": {
+        "width": 1280,
+        "height": 87
+    },
+    "images/other/wave3.png": {
+        "width": 1920,
+        "height": 278
+    },
+    "images/other/wave4.png": {
+        "width": 1920,
+        "height": 86
+    },
+    "images/styles/giftly.png": {
+        "width": 300,
+        "height": 300
+    },
+    "images/styles/skulls.png": {
+        "width": 400,
+        "height": 400
+    },
+    "images/targets/bear.png": {
+        "width": 359,
+        "height": 400
+    },
+    "images/targets/bear2.png": {
+        "width": 423,
+        "height": 400
+    },
+    "images/targets/begin.png": {
+        "width": 154,
+        "height": 51
+    },
+    "images/targets/boat.png": {
+        "width": 250,
+        "height": 144
+    },
+    "images/targets/christmas-tree-1.png": {
+        "width": 700,
+        "height": 918
+    },
+    "images/targets/end.png": {
+        "width": 154,
+        "height": 51
+    },
+    "images/targets/middle.png": {
+        "width": 154,
+        "height": 51
+    },
+    "images/targets/rocket1.png": {
+        "width": 97,
+        "height": 457
+    },
+    "images/targets/rocket2.png": {
+        "width": 98,
+        "height": 456
+    },
+    "images/targets/rocket3.png": {
+        "width": 98,
+        "height": 457
+    },
+    "images/targets/snowman1.png": {
+        "width": 630,
+        "height": 800
+    },
+    "images/targets/snowman2.png": {
+        "width": 630,
+        "height": 800
+    },
+    "images/targets/snowman3.png": {
+        "width": 630,
+        "height": 800
+    },
+    "images/targets/train1.png": {
+        "width": 920,
+        "height": 309
+    },
+    "images/targets/train2.png": {
+        "width": 1430,
+        "height": 497
+    },
+    "images/targets/train3.png": {
+        "width": 1200,
+        "height": 340
+    },
+    "images/targets/train4.gif": {
+        "width": 2000,
+        "height": 574
+    },
+    "images/thumbnails/diff/boat-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/forest-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/forest-2.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/rocket-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/train-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/winter-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/diff/winter-2.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/boat-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/forest-1.jpg": {
+        "width": 1920,
+        "height": 919
+    },
+    "images/thumbnails/position/forest-2.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/rocket-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/train-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/winter-1.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/thumbnails/position/winter-2.jpg": {
+        "width": 1920,
+        "height": 864
+    },
+    "images/words/agrus-4110174038.jpg": {
+        "width": 612,
+        "height": 462
+    },
+    "images/words/aistra-2260188.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/akula-4240808547.jpg": {
+        "width": 600,
+        "height": 596
+    },
+    "images/words/ananas-2739915988.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/apelsin-812682314.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/arkush-4174132001.jpg": {
+        "width": 496,
+        "height": 600
+    },
+    "images/words/avtobus-1194518583.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/baklazhan-1210343266.jpg": {
+        "width": 1080,
+        "height": 1024
+    },
+    "images/words/baraban-350530242.jpg": {
+        "width": 738,
+        "height": 738
+    },
+    "images/words/baran-2055878882.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/bdzhola-2927768639.jpg": {
+        "width": 235,
+        "height": 222
+    },
+    "images/words/bereza-3224008959.jpg": {
+        "width": 222,
+        "height": 227
+    },
+    "images/words/bilka-1959171971.jpg": {
+        "width": 450,
+        "height": 450
+    },
+    "images/words/bliudtse-2294869453.jpg": {
+        "width": 375,
+        "height": 382
+    },
+    "images/words/bochka-3954403012.jpg": {
+        "width": 180,
+        "height": 180
+    },
+    "images/words/borshch-728649117.jpg": {
+        "width": 800,
+        "height": 653
+    },
+    "images/words/borsuk-2794055926.png": {
+        "width": 498,
+        "height": 598
+    },
+    "images/words/bukvar-987208547.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/bulochka-3142312500.jpg": {
+        "width": 247,
+        "height": 204
+    },
+    "images/words/buriak-642045912.jpg": {
+        "width": 600,
+        "height": 552
+    },
+    "images/words/buzina-648704188.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/buzok-1661765673.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/chai-3152644885.jpg": {
+        "width": 450,
+        "height": 372
+    },
+    "images/words/chaika-3693615805.jpg": {
+        "width": 600,
+        "height": 577
+    },
+    "images/words/chaklun-1260511991.jpg": {
+        "width": 212,
+        "height": 238
+    },
+    "images/words/chashka-2335529006.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/chasnik-2890473174.png": {
+        "width": 450,
+        "height": 360
+    },
+    "images/words/cherepakha-288961868.jpg": {
+        "width": 600,
+        "height": 537
+    },
+    "images/words/chereshnia-3009478755.jpg": {
+        "width": 1350,
+        "height": 1350
+    },
+    "images/words/cherpak-880431861.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/cherviak-1533105036.jpg": {
+        "width": 567,
+        "height": 600
+    },
+    "images/words/choboti-950828119.jpg": {
+        "width": 612,
+        "height": 612
+    },
+    "images/words/choven-2385144689.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/diatel-938777654.png": {
+        "width": 353,
+        "height": 280
+    },
+    "images/words/divan-323947401.png": {
+        "width": 370,
+        "height": 370
+    },
+    "images/words/divchinka-1596631831.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/doroga-1139921837.jpg": {
+        "width": 600,
+        "height": 450
+    },
+    "images/words/doshch-2741548545.jpg": {
+        "width": 458,
+        "height": 512
+    },
+    "images/words/doshka-594850906.png": {
+        "width": 450,
+        "height": 428
+    },
+    "images/words/drakon-2917158705.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/dush-1080071985.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/fakel-1049346589.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/farbi-2152089849.jpg": {
+        "width": 1024,
+        "height": 1024
+    },
+    "images/words/fazan-699621746.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/futbol-1246188614.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/garazh-3283012076.jpg": {
+        "width": 912,
+        "height": 912
+    },
+    "images/words/garbuz-585866555.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/gazeta-3919798061.jpg": {
+        "width": 338,
+        "height": 338
+    },
+    "images/words/girka-1201530167.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/gitara-169811535.png": {
+        "width": 600,
+        "height": 596
+    },
+    "images/words/gitara-2951621696.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/gnizdo-3098413804.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/golka-1791543392.jpg": {
+        "width": 600,
+        "height": 568
+    },
+    "images/words/golub-2395554188.jpg": {
+        "width": 252,
+        "height": 250
+    },
+    "images/words/gora-4210025981.jpg": {
+        "width": 512,
+        "height": 391
+    },
+    "images/words/gorila-3952697910.jpg": {
+        "width": 600,
+        "height": 582
+    },
+    "images/words/gorila-3952697910.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/gorobets-821773987.jpg": {
+        "width": 308,
+        "height": 300
+    },
+    "images/words/gorokh-1069862892.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/grechka-1035341542.jpg": {
+        "width": 600,
+        "height": 499
+    },
+    "images/words/grib-3395408740.jpg": {
+        "width": 256,
+        "height": 256
+    },
+    "images/words/grusha-2606784648.jpg": {
+        "width": 600,
+        "height": 580
+    },
+    "images/words/guliash-3302213037.jpg": {
+        "width": 900,
+        "height": 900
+    },
+    "images/words/gusi-1729865834.jpg": {
+        "width": 733,
+        "height": 900
+    },
+    "images/words/ialinka-2262809633.jpg": {
+        "width": 700,
+        "height": 700
+    },
+    "images/words/iashchik-4090144549.jpg": {
+        "width": 450,
+        "height": 450
+    },
+    "images/words/iashchirka-2820657798.jpg": {
+        "width": 450,
+        "height": 318
+    },
+    "images/words/igrashki-3298039827.jpg": {
+        "width": 250,
+        "height": 250
+    },
+    "images/words/kabachok-1415744740.jpg": {
+        "width": 530,
+        "height": 530
+    },
+    "images/words/kachka-970556228.jpg": {
+        "width": 450,
+        "height": 405
+    },
+    "images/words/kaktus-1650715671.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/kalina-978651813.jpg": {
+        "width": 600,
+        "height": 471
+    },
+    "images/words/kaliuzha-3544021959.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/kartoplia-710290896.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/kasha-3730067447.jpg": {
+        "width": 600,
+        "height": 518
+    },
+    "images/words/kashtan-969943448.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/kastrulia-1889774243.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/kavun-1995678416.jpg": {
+        "width": 450,
+        "height": 407
+    },
+    "images/words/kazhan-501364924.jpg": {
+        "width": 1280,
+        "height": 1280
+    },
+    "images/words/kenguru-3611195737.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/ketchup-1867047273.jpg": {
+        "width": 508,
+        "height": 600
+    },
+    "images/words/khlopchik-3879276870.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/khrushch-1826858841.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/khudozhnik-465421487.jpg": {
+        "width": 600,
+        "height": 568
+    },
+    "images/words/kishka-3679328429.jpg": {
+        "width": 617,
+        "height": 793
+    },
+    "images/words/kliuch-212833818.jpg": {
+        "width": 598,
+        "height": 600
+    },
+    "images/words/knizhki-1314314169.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/kokos-3032993324.jpg": {
+        "width": 600,
+        "height": 447
+    },
+    "images/words/koleso-2020754192.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/koliuchka-1074836015.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/kolodiaz-965174556.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/kolos-2309482396.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/komar-1176380944.jpg": {
+        "width": 768,
+        "height": 568
+    },
+    "images/words/kombinezon-524267774.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/korabel-440703992.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/korona-454677921.jpg": {
+        "width": 600,
+        "height": 503
+    },
+    "images/words/korova-272994972.jpg": {
+        "width": 600,
+        "height": 451
+    },
+    "images/words/kosa-1857407513.jpg": {
+        "width": 425,
+        "height": 425
+    },
+    "images/words/kovbasa-921504630.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/kovzani-3458977263.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/koza-4142871646.jpg": {
+        "width": 1024,
+        "height": 985
+    },
+    "images/words/kozak-4007264242.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/kozel-2668957071.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/krab-1374340879.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/krinitsia-530089681.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/krokodil-1720405684.png": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/krolik-136372171.jpg": {
+        "width": 450,
+        "height": 433
+    },
+    "images/words/kruasan-319964660.jpg": {
+        "width": 1200,
+        "height": 1173
+    },
+    "images/words/kruzhka-385868294.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/kukurudza-1740555148.jpg": {
+        "width": 600,
+        "height": 479
+    },
+    "images/words/kusachki-1455132554.jpg": {
+        "width": 750,
+        "height": 750
+    },
+    "images/words/kushch-2287409606.jpg": {
+        "width": 348,
+        "height": 280
+    },
+    "images/words/kvasolia-4156928453.png": {
+        "width": 282,
+        "height": 300
+    },
+    "images/words/lak-2372754573.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/lama-3825036906.png": {
+        "width": 800,
+        "height": 828
+    },
+    "images/words/lampa-902041566.jpg": {
+        "width": 1600,
+        "height": 1600
+    },
+    "images/words/lampochka-4000741790.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/lasti-1040005592.jpg": {
+        "width": 1024,
+        "height": 969
+    },
+    "images/words/lastivka-888466535.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/lavash-2964422493.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/lavochka-127554363.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/lebid-2570386413.jpg": {
+        "width": 450,
+        "height": 422
+    },
+    "images/words/leleka-1284719134.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/lev-2239567444.jpg": {
+        "width": 338,
+        "height": 338
+    },
+    "images/words/liashch-3157117202.png": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/likar-4007506070.jpg": {
+        "width": 350,
+        "height": 416
+    },
+    "images/words/limon-2035832627.jpg": {
+        "width": 480,
+        "height": 454
+    },
+    "images/words/lipa-3519781874.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/lis-2701253087.jpg": {
+        "width": 465,
+        "height": 465
+    },
+    "images/words/lisitsia-3209034903.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/listok-1122281786.jpg": {
+        "width": 626,
+        "height": 594
+    },
+    "images/words/listonosha-15630797.png": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/litak-1808234631.jpg": {
+        "width": 1000,
+        "height": 1000
+    },
+    "images/words/lizhi-353113281.jpg": {
+        "width": 700,
+        "height": 531
+    },
+    "images/words/lizhko-4274058411.jpg": {
+        "width": 600,
+        "height": 487
+    },
+    "images/words/lopata-1621992685.jpg": {
+        "width": 550,
+        "height": 550
+    },
+    "images/words/los-4273376363.jpg": {
+        "width": 600,
+        "height": 575
+    },
+    "images/words/losha-3339975202.jpg": {
+        "width": 380,
+        "height": 452
+    },
+    "images/words/lozhka-696299209.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/luk-335306785.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/lupa-3429286336.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/malina-3537944806.jpg": {
+        "width": 600,
+        "height": 491
+    },
+    "images/words/mandarin-2844145671.jpg": {
+        "width": 450,
+        "height": 402
+    },
+    "images/words/mashina-2277605303.jpg": {
+        "width": 596,
+        "height": 600
+    },
+    "images/words/maslo-603539550.jpg": {
+        "width": 250,
+        "height": 202
+    },
+    "images/words/matrats-2814719888.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/mech-2029338406.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/meduza-2114267812.jpg": {
+        "width": 491,
+        "height": 600
+    },
+    "images/words/metelik-2224471397.jpg": {
+        "width": 450,
+        "height": 427
+    },
+    "images/words/miach-3920967685.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/mikrofon-855900949.jpg": {
+        "width": 900,
+        "height": 900
+    },
+    "images/words/milo-4108132519.jpg": {
+        "width": 600,
+        "height": 477
+    },
+    "images/words/mimoza-2344164873.jpg": {
+        "width": 600,
+        "height": 419
+    },
+    "images/words/misha-2381590796.jpg": {
+        "width": 300,
+        "height": 265
+    },
+    "images/words/mishok-1334321381.jpg": {
+        "width": 747,
+        "height": 900
+    },
+    "images/words/misiats-1926970770.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/mist-3863226498.png": {
+        "width": 655,
+        "height": 655
+    },
+    "images/words/mochalka-1548316089.jpg": {
+        "width": 791,
+        "height": 760
+    },
+    "images/words/molotok-2868905612.jpg": {
+        "width": 1500,
+        "height": 1500
+    },
+    "images/words/morkva-225508895.jpg": {
+        "width": 1350,
+        "height": 1350
+    },
+    "images/words/morozivo-3038854749.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/morzh-3854839841.jpg": {
+        "width": 600,
+        "height": 487
+    },
+    "images/words/mototsikl-1368034515.jpg": {
+        "width": 1000,
+        "height": 1000
+    },
+    "images/words/mukhomor-3492806967.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/murashka-1840143351.png": {
+        "width": 1024,
+        "height": 1024
+    },
+    "images/words/namisto-4132530596.png": {
+        "width": 700,
+        "height": 700
+    },
+    "images/words/nasos-2637464202.jpg": {
+        "width": 2473,
+        "height": 2301
+    },
+    "images/words/nich-3340929354.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/nis-776023167.png": {
+        "width": 650,
+        "height": 650
+    },
+    "images/words/nizh-2414327857.jpg": {
+        "width": 480,
+        "height": 501
+    },
+    "images/words/nozhitsi-3790568668.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/obruch-1120020696.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/ocheret-4210283972.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/ogirok-1767860869.jpg": {
+        "width": 480,
+        "height": 480
+    },
+    "images/words/okuliari-3544312948.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/olen-1169483186.jpg": {
+        "width": 600,
+        "height": 582
+    },
+    "images/words/orel-1136380137.jpg": {
+        "width": 305,
+        "height": 338
+    },
+    "images/words/osa-944624161.jpg": {
+        "width": 600,
+        "height": 492
+    },
+    "images/words/osel-2128339289.jpg": {
+        "width": 680,
+        "height": 699
+    },
+    "images/words/ozero-3352821409.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/ozhina-3934719237.jpg": {
+        "width": 250,
+        "height": 250
+    },
+    "images/words/parashut-3095629808.jpg": {
+        "width": 456,
+        "height": 600
+    },
+    "images/words/parasolka-274177392.jpg": {
+        "width": 300,
+        "height": 269
+    },
+    "images/words/paroplav-549975142.jpg": {
+        "width": 600,
+        "height": 549
+    },
+    "images/words/pastushok-1283393581.jpg": {
+        "width": 533,
+        "height": 480
+    },
+    "images/words/pavuk-2717938236.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/pazli-371871533.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/pechivo-1310213674.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/penal-2617165424.jpg": {
+        "width": 750,
+        "height": 750
+    },
+    "images/words/perets-960362237.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/persik-3861393465.jpg": {
+        "width": 744,
+        "height": 744
+    },
+    "images/words/petrushka-26784891.png": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/pich-3185760810.jpg": {
+        "width": 600,
+        "height": 592
+    },
+    "images/words/pilka-4012641870.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/pilosos-298779316.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/pirizhok-316420022.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/pitsa-53429339.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/pizhama-89028294.jpg": {
+        "width": 1024,
+        "height": 1024
+    },
+    "images/words/planshet-2749119711.jpg": {
+        "width": 512,
+        "height": 407
+    },
+    "images/words/plashch-795228997.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/podushka-1627470076.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/politsia-3158248477.jpg": {
+        "width": 336,
+        "height": 336
+    },
+    "images/words/polunitsia-1936055476.jpg": {
+        "width": 744,
+        "height": 744
+    },
+    "images/words/pomidor-2021197470.jpg": {
+        "width": 307,
+        "height": 289
+    },
+    "images/words/ponchik-3995311944.jpg": {
+        "width": 600,
+        "height": 553
+    },
+    "images/words/portfel-4030147698.jpg": {
+        "width": 553,
+        "height": 600
+    },
+    "images/words/posud-945436053.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/pozhezhnik-421446338.png": {
+        "width": 512,
+        "height": 505
+    },
+    "images/words/prapor-122829397.jpg": {
+        "width": 659,
+        "height": 630
+    },
+    "images/words/praska-3939780134.jpg": {
+        "width": 1250,
+        "height": 1132
+    },
+    "images/words/prishchepka-2756101464.jpg": {
+        "width": 1000,
+        "height": 1000
+    },
+    "images/words/prodavets-1298969663.jpg": {
+        "width": 245,
+        "height": 206
+    },
+    "images/words/prolisok-2744662894.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/pruzhina-2095654241.jpg": {
+        "width": 1280,
+        "height": 1158
+    },
+    "images/words/rak-2428503743.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/raketa-2723766175.png": {
+        "width": 232,
+        "height": 217
+    },
+    "images/words/raketka-186292563.jpg": {
+        "width": 726,
+        "height": 900
+    },
+    "images/words/rakovina-2269229347.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/ravlik-1595097508.png": {
+        "width": 850,
+        "height": 609
+    },
+    "images/words/rediska-2499343763.jpg": {
+        "width": 220,
+        "height": 201
+    },
+    "images/words/remin-1742479765.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/riba-3181070286.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/ris-389581053.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/ris-918785890.jpg": {
+        "width": 646,
+        "height": 637
+    },
+    "images/words/robot-247697397.jpg": {
+        "width": 1046,
+        "height": 1536
+    },
+    "images/words/rogi-1065676338.png": {
+        "width": 650,
+        "height": 650
+    },
+    "images/words/romashka-855571673.jpg": {
+        "width": 600,
+        "height": 450
+    },
+    "images/words/ruchka-941956455.jpg": {
+        "width": 1280,
+        "height": 1202
+    },
+    "images/words/ruka-2892231197.jpg": {
+        "width": 527,
+        "height": 600
+    },
+    "images/words/rukavitsi-866898830.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/rushnik-3902069167.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sad-1243087368.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/salat-162125120.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/samokat-566732883.png": {
+        "width": 802,
+        "height": 799
+    },
+    "images/words/samovar-4290347710.jpg": {
+        "width": 205,
+        "height": 246
+    },
+    "images/words/sani-744322797.png": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/sani2-3292691902.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/serezhki-1646299191.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/serp-4007034264.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shafa-605553270.jpg": {
+        "width": 600,
+        "height": 595
+    },
+    "images/words/shaiba-264518285.jpg": {
+        "width": 1280,
+        "height": 1280
+    },
+    "images/words/shakhi-721543283.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/shakhi2-3555893099.jpg": {
+        "width": 250,
+        "height": 250
+    },
+    "images/words/shampun-2284330505.jpg": {
+        "width": 1000,
+        "height": 1000
+    },
+    "images/words/shapka-2362515660.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sharf-465465182.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shashki-1515659213.jpg": {
+        "width": 450,
+        "height": 450
+    },
+    "images/words/shashlik-627661411.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shchavel-1334434753.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shchenia-1995711412.jpg": {
+        "width": 500,
+        "height": 600
+    },
+    "images/words/shchit-2732244137.png": {
+        "width": 234,
+        "height": 234
+    },
+    "images/words/shchitka-1770034981.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/shchodennik-54577995.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shchuka-972797902.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/shchur-3696668817.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shempanze-2292973495.jpg": {
+        "width": 626,
+        "height": 598
+    },
+    "images/words/shilo-1683726712.png": {
+        "width": 1280,
+        "height": 1280
+    },
+    "images/words/shina-2272194765.jpg": {
+        "width": 1002,
+        "height": 1002
+    },
+    "images/words/shishka-1734597016.jpg": {
+        "width": 540,
+        "height": 600
+    },
+    "images/words/shishka2-3831940770.jpg": {
+        "width": 540,
+        "height": 600
+    },
+    "images/words/shkarpetki-676272140.jpg": {
+        "width": 620,
+        "height": 620
+    },
+    "images/words/shokolad-1828683103.jpg": {
+        "width": 1700,
+        "height": 1700
+    },
+    "images/words/shorti-2833054748.jpg": {
+        "width": 828,
+        "height": 867
+    },
+    "images/words/shovkovitsia-1433739587.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shprits-1200741473.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/shtani-4131626319.jpg": {
+        "width": 800,
+        "height": 800
+    },
+    "images/words/shuba-2480493467.png": {
+        "width": 362,
+        "height": 340
+    },
+    "images/words/shurup-845465476.jpg": {
+        "width": 700,
+        "height": 700
+    },
+    "images/words/shvabra-1679342524.jpg": {
+        "width": 338,
+        "height": 338
+    },
+    "images/words/sinitsia-1296854232.png": {
+        "width": 751,
+        "height": 630
+    },
+    "images/words/sir-2091161156.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sirniki-627782966.png": {
+        "width": 600,
+        "height": 604
+    },
+    "images/words/sito-1657101777.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/skakalka-1859549209.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/slimak-76272223.jpg": {
+        "width": 700,
+        "height": 700
+    },
+    "images/words/sliva-2655408069.jpg": {
+        "width": 350,
+        "height": 350
+    },
+    "images/words/slon-698420522.jpg": {
+        "width": 554,
+        "height": 600
+    },
+    "images/words/slon2-3242710742.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/smorodina-196130385.jpg": {
+        "width": 600,
+        "height": 479
+    },
+    "images/words/snigovik-4109690301.png": {
+        "width": 600,
+        "height": 612
+    },
+    "images/words/snizhinka-3165798249.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/sobaka-4080423690.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sokil-2794742739.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sokira-1342262034.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/som-1314760496.jpg": {
+        "width": 600,
+        "height": 553
+    },
+    "images/words/soniashnik-3584594512.jpg": {
+        "width": 650,
+        "height": 567
+    },
+    "images/words/sontse-4012519860.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sopilka-2617181266.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sorochka-448827688.jpg": {
+        "width": 2000,
+        "height": 2000
+    },
+    "images/words/soroka-2394440467.jpg": {
+        "width": 626,
+        "height": 575
+    },
+    "images/words/sosna-2689543693.jpg": {
+        "width": 512,
+        "height": 484
+    },
+    "images/words/sova-2531919747.jpg": {
+        "width": 215,
+        "height": 234
+    },
+    "images/words/stil-692965744.jpg": {
+        "width": 1200,
+        "height": 1200
+    },
+    "images/words/stilets-2649956052.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/straus-3448515979.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/sumka-854807318.jpg": {
+        "width": 640,
+        "height": 640
+    },
+    "images/words/sup-1130096428.png": {
+        "width": 650,
+        "height": 604
+    },
+    "images/words/svichka-200216737.jpg": {
+        "width": 338,
+        "height": 338
+    },
+    "images/words/svinia-2952745303.jpg": {
+        "width": 600,
+        "height": 555
+    },
+    "images/words/svistok-3612086668.jpg": {
+        "width": 600,
+        "height": 495
+    },
+    "images/words/svitlofor-3056815516.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/tarilka-1778984871.jpg": {
+        "width": 550,
+        "height": 495
+    },
+    "images/words/telefon-4220696024.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/televizor-1015484866.jpg": {
+        "width": 600,
+        "height": 540
+    },
+    "images/words/terezi-3839660479.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/tigr-373457764.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/tort-3919391556.jpg": {
+        "width": 512,
+        "height": 512
+    },
+    "images/words/traktor-2200205357.jpg": {
+        "width": 600,
+        "height": 544
+    },
+    "images/words/trava-4051028471.png": {
+        "width": 600,
+        "height": 500
+    },
+    "images/words/troianda-2809090333.jpg": {
+        "width": 600,
+        "height": 472
+    },
+    "images/words/trubach-31639992.jpg": {
+        "width": 800,
+        "height": 880
+    },
+    "images/words/tsap-1877608336.jpg": {
+        "width": 374,
+        "height": 461
+    },
+    "images/words/tsap-1877608336.png": {
+        "width": 272,
+        "height": 300
+    },
+    "images/words/tsegla-3524875215.jpg": {
+        "width": 248,
+        "height": 203
+    },
+    "images/words/tsibulia-712333499.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/tsirk-2743825192.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/tsirkul-3112171537.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/tsukerka-4212290716.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/tsukor-3776537166.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/tush-2774337970.jpg": {
+        "width": 400,
+        "height": 400
+    },
+    "images/words/tvarini-3148642329.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/vagon-1682192606.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/valiza-950807798.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/vantazhivka-1031995706.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/vareniki-1675698054.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/varennia-3891459896.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/vaza-2050016344.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/vedmezha-209345557.jpg": {
+        "width": 338,
+        "height": 338
+    },
+    "images/words/velosiped-1725579074.jpg": {
+        "width": 630,
+        "height": 630
+    },
+    "images/words/veselka-2762780768.jpg": {
+        "width": 650,
+        "height": 493
+    },
+    "images/words/vidertse-1394159190.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/vidro-3118667443.jpg": {
+        "width": 600,
+        "height": 450
+    },
+    "images/words/vila-1130002173.jpg": {
+        "width": 1280,
+        "height": 1280
+    },
+    "images/words/vinograd-3456076288.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/vishalka-3740044325.png": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/vishalka2-1359972038.jpg": {
+        "width": 275,
+        "height": 275
+    },
+    "images/words/vishni-4259797715.jpg": {
+        "width": 445,
+        "height": 450
+    },
+    "images/words/viz-2058362742.jpg": {
+        "width": 900,
+        "height": 900
+    },
+    "images/words/vogon-3264202355.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/vokzal-4084852428.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/voloshka-4236923743.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/vorona-2715432164.jpg": {
+        "width": 1152,
+        "height": 873
+    },
+    "images/words/vovk-589189580.jpg": {
+        "width": 564,
+        "height": 600
+    },
+    "images/words/vulik-2616993119.jpg": {
+        "width": 332,
+        "height": 400
+    },
+    "images/words/vusa-3484888044.jpg": {
+        "width": 900,
+        "height": 900
+    },
+    "images/words/vuzh-391794299.jpg": {
+        "width": 259,
+        "height": 194
+    },
+    "images/words/yizhak-1103485126.jpg": {
+        "width": 600,
+        "height": 554
+    },
+    "images/words/zaiets-1282391830.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/zamok-854032355.jpg": {
+        "width": 900,
+        "height": 900
+    },
+    "images/words/zavod-1785719941.jpg": {
+        "width": 600,
+        "height": 489
+    },
+    "images/words/zebra-4006859284.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/zefir-1797777512.jpg": {
+        "width": 225,
+        "height": 225
+    },
+    "images/words/zelenii-407288683.png": {
+        "width": 224,
+        "height": 225
+    },
+    "images/words/zemlia-700213197.jpg": {
+        "width": 223,
+        "height": 226
+    },
+    "images/words/zhaba-2331155705.jpg": {
+        "width": 1040,
+        "height": 992
+    },
+    "images/words/zhasmin-2097969782.jpg": {
+        "width": 600,
+        "height": 489
+    },
+    "images/words/zhasmin2-2748212862.jpg": {
+        "width": 612,
+        "height": 485
+    },
+    "images/words/zhele-1072653008.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/zheton-1015874790.jpg": {
+        "width": 225,
+        "height": 224
+    },
+    "images/words/zhiletka-2620506065.jpg": {
+        "width": 228,
+        "height": 228
+    },
+    "images/words/zhiletka3-2627362150.jpg": {
+        "width": 1000,
+        "height": 1000
+    },
+    "images/words/zhinka-2682720234.jpg": {
+        "width": 578,
+        "height": 600
+    },
+    "images/words/zhiraf-1796907525.jpg": {
+        "width": 250,
+        "height": 250
+    },
+    "images/words/zhiraf2-1792299040.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/zholud-3699732363.jpg": {
+        "width": 450,
+        "height": 360
+    },
+    "images/words/zhongler-935163552.jpg": {
+        "width": 260,
+        "height": 280
+    },
+    "images/words/zhorzhina-591937337.jpg": {
+        "width": 350,
+        "height": 305
+    },
+    "images/words/zhovtok-2940936934.jpg": {
+        "width": 476,
+        "height": 360
+    },
+    "images/words/zhuika-1602296387.jpg": {
+        "width": 280,
+        "height": 290
+    },
+    "images/words/zhuk-3949765776.jpg": {
+        "width": 300,
+        "height": 300
+    },
+    "images/words/zhuravel-3003335846.jpg": {
+        "width": 222,
+        "height": 227
+    },
+    "images/words/zima-338513887.jpg": {
+        "width": 900,
+        "height": 636
+    },
+    "images/words/zirka-443659323.jpg": {
+        "width": 626,
+        "height": 626
+    },
+    "images/words/zmiia-3283505456.jpg": {
+        "width": 390,
+        "height": 390
+    },
+    "images/words/zoloto-3329261919.jpg": {
+        "width": 500,
+        "height": 500
+    },
+    "images/words/zoshit-3367058480.jpg": {
+        "width": 189,
+        "height": 228
+    },
+    "images/words/zozulia-1224658104.jpg": {
+        "width": 600,
+        "height": 600
+    },
+    "images/words/zub-1105089704.jpg": {
+        "width": 514,
+        "height": 600
+    },
+    "images/words/zviri-1491040407.png": {
+        "width": 538,
+        "height": 538
+    }
+}
