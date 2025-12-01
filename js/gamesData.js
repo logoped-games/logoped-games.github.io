@@ -39,46 +39,6 @@ const BASE_LAYOUT_CONFIG = {
 window.GAMES = [
     {
         thumbnails: {
-            diff: "images/thumbnails/diff/roblox-1.jpg",
-            position: "images/thumbnails/position/roblox-1.jpg",
-            syllables: "images/thumbnails/syllables/roblox-1.jpg",
-            letters: "images/thumbnails/letters/roblox-1.jpg",
-            odd_one_out: "images/thumbnails/odd_one_out/roblox-1.jpg",
-            odd_one_out_sound: "images/thumbnails/odd_one_out_sound/roblox-1.jpg",
-        },
-        background: "images/backgrounds/roblox.jpg",
-        mode: MODE_SINGLE,
-        animationType: ANIMATION_MOVE_TO_TARGET_AND_ZOOM_OUT,
-        wordConfig: {
-            backgrounds: ["images/item-backgrounds/roblox-coin.png"],
-        },
-        gameName: "roblox-1",
-        targetConfigs: {
-            diff: [
-                targetDecorator('roblox-1.png'),
-                targetDecorator('roblox-2.png'),
-            ],
-            position: [
-                targetDecorator('roblox-1.png'),
-                targetDecorator('roblox-2.png'),
-                targetDecorator('roblox-3.png'),
-            ],
-            syllables: [],
-            letters: [],
-            odd_one_out: [], // Не используется в новой игре
-            odd_one_out_sound: [], // Не используется в новой игре
-        },
-        layoutConfig: _.merge({}, BASE_LAYOUT_CONFIG, {
-            question: {
-                // yPercent: 0.32,
-                sizePercent: 0.43,
-                maskRadiusPercent: 0.38,
-                topOffset: 0
-            },
-        }),
-    },
-    {
-        thumbnails: {
             diff: "images/thumbnails/diff/spongebob-1.jpg",
             position: "images/thumbnails/position/spongebob-1.jpg",
             syllables: "images/thumbnails/syllables/spongebob-1.jpg",
@@ -831,6 +791,46 @@ window.GAMES = [
                 maskRadiusPercent: 0.2,
                 topOffset: -0.02
             }
+        }),
+    },
+    {
+        thumbnails: {
+            diff: "images/thumbnails/diff/roblox-1.jpg",
+            position: "images/thumbnails/position/roblox-1.jpg",
+            syllables: "images/thumbnails/syllables/roblox-1.jpg",
+            letters: "images/thumbnails/letters/roblox-1.jpg",
+            odd_one_out: "images/thumbnails/odd_one_out/roblox-1.jpg",
+            odd_one_out_sound: "images/thumbnails/odd_one_out_sound/roblox-1.jpg",
+        },
+        background: "images/backgrounds/roblox.jpg",
+        mode: MODE_SINGLE,
+        animationType: ANIMATION_MOVE_TO_TARGET_AND_ZOOM_OUT,
+        wordConfig: {
+            backgrounds: ["images/item-backgrounds/roblox-coin.png"],
+        },
+        gameName: "roblox-1",
+        targetConfigs: {
+            diff: [
+                targetDecorator('roblox-1.png'),
+                targetDecorator('roblox-2.png'),
+            ],
+            position: [
+                targetDecorator('roblox-1.png'),
+                targetDecorator('roblox-2.png'),
+                targetDecorator('roblox-3.png'),
+            ],
+            syllables: [],
+            letters: [],
+            odd_one_out: [], // Не используется в новой игре
+            odd_one_out_sound: [], // Не используется в новой игре
+        },
+        layoutConfig: _.merge({}, BASE_LAYOUT_CONFIG, {
+            question: {
+                // yPercent: 0.32,
+                sizePercent: 0.43,
+                maskRadiusPercent: 0.38,
+                topOffset: 0
+            },
         }),
     },
 ];

@@ -285,6 +285,7 @@ const App = {
         const showGameSelect = ref(false);
         const showGameContainer = ref(false);
         const showGameFinished = ref(false);
+        const showAboutPage = ref(false);
         const gameHeader = ref('');
         const customBlock = ref('');
         const phaserGameManager = shallowRef(null);
@@ -348,6 +349,18 @@ const App = {
             showGameSelect.value = false;
             showGameContainer.value = false;
             showGameFinished.value = false;
+            showAboutPage.value = false;
+        };
+
+        const renderAboutPage = () => {
+            showGameTypeSelect.value = false;
+            showGameLettersSelect.value = false;
+            showGameTagSelect.value = false;
+            showGameSelect.value = false;
+            showGameContainer.value = false;
+            showGameFinished.value = false;
+            showAboutPage.value = true;
+            window.scrollTo(0, 0);
         };
 
         const renderGameLetterSelect = () => {
@@ -747,7 +760,7 @@ const App = {
         };
 
         const checkMainLink = () => {
-            showNav.value = !showGameTypeSelect.value;
+            showNav.value = !showGameTypeSelect.value && !showAboutPage.value;
         };
 
         const getGameHeader = () => {
@@ -759,6 +772,8 @@ const App = {
             }
             return gameUtils.getGameHeader(currentState);
         };
+
+
 
         // Initialize app
         onMounted(() => {
@@ -809,6 +824,7 @@ const App = {
             showGameSelect,
             showGameContainer,
             showGameFinished,
+            showAboutPage,
             gameHeader,
             customBlock,
             currentGame,
@@ -830,6 +846,7 @@ const App = {
             onSelectGame,
             onTargetClick,
             onMainClick,
+            renderAboutPage,
             getCurrentItemValue,
             getCurrentWordImage,
             getItemBackground
@@ -853,6 +870,9 @@ const App = {
                     @click="onSelectGameType(type.type)"
                 >
                     <span>{{ type.label }}</span>
+                </div>
+                <div class="button about-project-button" @click="renderAboutPage" style="margin-top: 60px">
+                    <span>Про проект</span>
                 </div>
             </div>
 
@@ -913,6 +933,171 @@ const App = {
 
                 <!-- Phaser Game Container -->
                 <div id="phaser-game-container" v-show="!showGameFinished" style="width: 100%; height: 100vh; position: relative;"></div>
+            </div>
+
+            <!-- About Page -->
+            <div class="about-page-container" v-show="showAboutPage">
+                <div class="about-content">
+                    <!-- Navigation -->
+                    <div class="nav">
+                        <div class="button main-link" @click="onMainClick">
+                            <span>На головну</span>
+                        </div>
+                    </div>
+
+                    <!-- Brief Description -->
+                    <section class="about-section">
+                        <p class="about-description">
+                            <b>Логос</b> — це серія міні ігор, розроблених на базі web технологій, що поєднують логопедичні вправи з яскравою візуальною подачею. Гравець потрапляє у динамічні сюжети — від футбольної арени до полярної експедиції — та виконує завдання, які тренують вимову, фонематичний слух, увагу й швидкість реакції. Гра адаптована для роботи на інтерактивних дошках, планшетах та настільних комп'ютерах, тому її легко інтегрувати у групові та індивідуальні заняття.
+                        </p>
+                    </section>
+
+                    <!-- Statistics -->
+                    <section class="about-section statistics-section">
+                        <div class="statistics-grid">
+                            <div class="stat-item">
+                                <div class="stat-number">6</div>
+                                <div class="stat-label">Типів ігор</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">20</div>
+                                <div class="stat-label">Візуальних сюжетів</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">430</div>
+                                <div class="stat-label">Слів</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">15</div>
+                                <div class="stat-label">Лексичних тем</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Game Types -->
+                    <section class="about-section">
+                        <h2 class="section-title">Типи ігор</h2>
+                        <div class="game-types-list">
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Диференціація звуків</h3>
+                                <p class="game-type-description">Дитина обирає з двох персонажів того, хто вимовляє чи відображає правильний звук. Це розвиває фонематичну пильність і концентрує увагу на нюансах артикуляції.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/diff/spongebob-1.jpg" alt="Диференціація звуків" class="game-type-screenshot">
+                                </div>
+                            </div>
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Визначення місця звука в слові</h3>
+                                <p class="game-type-description">Необхідно визначити, де знаходиться заданий звук — на початку, в середині чи наприкінці слова. Механіка формує навички аналізу звукової структури, що є критично важливим для читання.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/position/arctic-1.jpg" alt="Визначення місця звука в слові" class="game-type-screenshot">
+                                </div>
+                            </div>
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Збери слово</h3>
+                                <p class="game-type-description">Гравець складає слово з частин або складів, обираючи елементи у правильному порядку. Інтерактивний формат допомагає відпрацювати синтез мовлення та автоматизувати складову структуру.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/syllables/castle-1.jpg" alt="Збери слово" class="game-type-screenshot">
+                                </div>
+                            </div>
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Збери слово по буквам</h3>
+                                <p class="game-type-description">Гравець складає слово з букв, обираючи елементи у правильному порядку. Інтерактивний формат допомагає відпрацювати синтез мовлення та автоматизувати буквену структуру.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/letters/magic-1.jpg" alt="Збери слово по буквам" class="game-type-screenshot">
+                                </div>
+                            </div>
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Четвертий зайвий</h3>
+                                <p class="game-type-description">Потрібно знайти картинку, що не відповідає загальному правилу. Ігри тренують логічне мислення, слухову диференціацію та вміння працювати з класифікаціями.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/odd_one_out/cake-1.jpg" alt="Четвертий зайвий" class="game-type-screenshot">
+                                </div>
+                            </div>
+                            <div class="game-type-item">
+                                <h3 class="game-type-title">Четвертий зайвий звук</h3>
+                                <p class="game-type-description">Потрібно знайти слово, що містить інший звук, ніж решта. Ігри тренують фонематичний слух, слухову диференціацію та вміння розпізнавати звуки в словах.</p>
+                                <div class="game-type-example">
+                                    <img src="images/thumbnails/odd_one_out_sound/jungle-1.jpg" alt="Четвертий зайвий звук" class="game-type-screenshot">
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Visual Stories Screenshots -->
+                    <section class="about-section">
+                        <h2 class="section-title">Візуальні сюжети</h2>
+                        <p class="section-description">20 унікальних сюжетів на прикладі гри "Визначення місця звука в слові"</p>
+                        <div class="screenshots-grid">
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/spongebob-1.jpg" alt="spongebob-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/kozak-1.jpg" alt="kozak-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/princess-1.jpg" alt="princess-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/minion-1.jpg" alt="minion-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/stich-1.jpg" alt="stich-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/football-1.jpg" alt="football-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/arctic-1.jpg" alt="arctic-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/castle-1.jpg" alt="castle-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/fishing-1.jpg" alt="fishing-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/magic-1.jpg" alt="magic-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/cake-1.jpg" alt="cake-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/space-1.jpg" alt="space-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/sea-2.jpg" alt="sea-2" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/jungle-1.jpg" alt="jungle-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/forest-1.jpg" alt="forest-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/winter-1.jpg" alt="winter-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/rocket-1.jpg" alt="rocket-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/winter-christmas-tree-1.jpg" alt="winter-christmas-tree-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/sea-boat-1.jpg" alt="sea-boat-1" class="screenshot-img">
+                            </div>
+                            <div class="screenshot-item">
+                                <img src="images/thumbnails/position/roblox-1.jpg" alt="roblox-1" class="screenshot-img">
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Conclusion -->
+                    <section class="about-section conclusion-section">
+                        <p class="conclusion-text">
+                            Гра демонструє, як поєднання сучасних веб-технологій і методичних напрацювань логопедів здатне перетворити корекційну роботу на захопливий процес. Гнучкі сценарії, якісна візуальна складова та доведена ефективність ігрових методик роблять платформу універсальним інструментом для дитячих садків, шкіл, реабілітаційних центрів і домашнього використання. Гра не просто навчає — вона створює середовище, де кожна дитина відчуває успіх і прогрес, а спеціаліст отримує надійний ресурс для досягнення освітніх цілей.
+                        </p>
+                    </section>
+                </div>
             </div>
         </div>
 

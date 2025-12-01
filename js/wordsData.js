@@ -1345,8 +1345,8 @@ window.WORDS = [
         "syllables": [
             "па",
             "ра",
-            "сол",
-            "ька"
+            "соль",
+            "ка"
         ],
         "tags": [],
         "translate": "closed colorful umbrella with curved handle"
@@ -4645,20 +4645,24 @@ window.WORDS = [
         "possibleImages": [
             "osel-2128339289.jpg"
         ],
-        "word": "осел",
+        "word": "віслюк",
         "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
             {
                 "letter": "с",
                 "position": "middle"
             },
             {
                 "letter": "л",
-                "position": "end"
+                "position": "middle"
             }
         ],
         "syllables": [
-            "о",
-            "сел"
+            "віс",
+            "люк"
         ],
         "tags": [
             "домашні тварини",
@@ -4861,8 +4865,8 @@ window.WORDS = [
         ],
         "syllables": [
             "а",
-            "пел",
-            "ьсин"
+            "пель",
+            "син"
         ],
         "tags": [
             "фрукти/ягоди",
@@ -8634,6 +8638,7 @@ window.WORDS = [
             "дил"
         ],
         "tags": [
+            "водні тварини",
             "дикі тварини",
             "тварини"
         ],
@@ -9483,5 +9488,1742 @@ window.WORDS = [
             "тварини"
         ],
         "translate": "green lizard with scaly skin crawling on a rock"
+    },
+    {
+        "word": "видра",
+        "img": "vydra-1764389715_692a73539a482.jpg",
+        "possibleImages": [
+            "vydra-1764389715_692a73539a482.jpg",
+            "vydra-1764389715_692a73539a522.jpg",
+            "vydra-1764389715_692a73539a65c.jpg"
+        ],
+        "syllables": [
+            "вид",
+            "ра"
+        ],
+        "tags": [
+            "водні тварини",
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "бобер",
+        "img": "bober-1764390018_692a7482a153b.jpg",
+        "possibleImages": [
+            "bober-1764390018_692a7482a1421.jpg",
+            "bober-1764390018_692a7482a153b.jpg",
+            "bober-1764390018_692a7482a1587.jpg",
+            "bober-1764390018_692a7482a15d4.jpg",
+            "bober-1764390018_692a7482a161c.jpg"
+        ],
+        "syllables": [
+            "бо",
+            "бер"
+        ],
+        "tags": [
+            "водні тварини",
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "восьминіг",
+        "img": "vosmynig-1764390051_692a74a36742f.jpg",
+        "possibleImages": [
+            "vosmynig-1764390051_692a74a367233.jpg",
+            "vosmynig-1764390051_692a74a3672be.jpg",
+            "vosmynig-1764390051_692a74a367316.jpg",
+            "vosmynig-1764390051_692a74a36736e.jpg",
+            "vosmynig-1764390051_692a74a3673cf.jpg",
+            "vosmynig-1764390051_692a74a36742f.jpg"
+        ],
+        "syllables": [
+            "вось",
+            "ми",
+            "ніг"
+        ],
+        "tags": [
+            "водні тварини",
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
+            {
+                "letter": "с",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "черепаха",
+        "img": "cherepakha-1764390083_692a74c3187b4.jpg",
+        "possibleImages": [
+            "cherepakha-1764390083_692a74c318731.jpg",
+            "cherepakha-1764390083_692a74c318780.jpg",
+            "cherepakha-1764390083_692a74c3187b4.jpg"
+        ],
+        "syllables": [
+            "че",
+            "ре",
+            "па",
+            "ха"
+        ],
+        "tags": [
+            "водні тварини",
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "ч",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "кит",
+        "img": "kyt-1764390102_692a74d631025.jpg",
+        "possibleImages": [
+            "kyt-1764390102_692a74d630f06.jpg",
+            "kyt-1764390102_692a74d631025.jpg",
+            "kyt-1764390102_692a74d6310dc.jpg",
+            "kyt-1764390102_692a74d6311d8.jpg",
+            "kyt-1764390102_692a74d631296.jpg",
+            "kyt-1764390102_692a74d63133d.jpg",
+            "kyt-1764390102_692a74d6313e1.jpg"
+        ],
+        "syllables": [
+            "кит"
+        ],
+        "tags": [
+            "водні тварини",
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "вепр",
+        "img": "vepr-1764390126_692a74eee694f.jpg",
+        "possibleImages": [
+            "vepr-1764390126_692a74eee694f.jpg",
+            "vepr-1764390126_692a74eee6a21.jpg",
+            "vepr-1764390126_692a74eee6ad4.jpg",
+            "vepr-1764390126_692a74eee6b50.jpg"
+        ],
+        "syllables": [
+            "вепр"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "панда",
+        "img": "panda-1764390152_692a7508b6504.jpg",
+        "possibleImages": [
+            "panda-1764390152_692a7508b6504.jpg",
+            "panda-1764390152_692a7508b6562.jpg",
+            "panda-1764390152_692a7508b6673.jpg",
+            "panda-1764390152_692a7508b66d6.jpg",
+            "panda-1764390152_692a7508b672d.jpg",
+            "panda-1764390152_692a7508b676d.jpg",
+            "panda-1764390152_692a7508b67aa.jpg",
+            "panda-1764390152_692a7508b67ed.jpg"
+        ],
+        "syllables": [
+            "пан",
+            "да"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "бегемот",
+        "img": "begemot-1764390171_692a751bed9ac.jpg",
+        "possibleImages": [
+            "begemot-1764390171_692a751bed907.jpg",
+            "begemot-1764390171_692a751bed96d.jpg",
+            "begemot-1764390171_692a751bed9ac.jpg",
+            "begemot-1764390171_692a751bed9f5.jpg"
+        ],
+        "syllables": [
+            "бе",
+            "ге",
+            "мот"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "носоріг",
+        "img": "nosorig-1764390207_692a753fcbaf6.jpg",
+        "possibleImages": [
+            "nosorig-1764390207_692a753fcb891.jpg",
+            "nosorig-1764390207_692a753fcba03.jpg",
+            "nosorig-1764390207_692a753fcbaf6.jpg",
+            "nosorig-1764390207_692a753fcbbf8.jpg",
+            "nosorig-1764390207_692a753fcbd06.jpg"
+        ],
+        "syllables": [
+            "но",
+            "со",
+            "ріг"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "middle"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "леопард",
+        "img": "leopard-1764390227_692a75539f867.jpg",
+        "possibleImages": [
+            "leopard-1764390227_692a75539f6fa.jpg",
+            "leopard-1764390227_692a75539f7c8.jpg",
+            "leopard-1764390227_692a75539f867.jpg",
+            "leopard-1764390227_692a75539f8cc.jpg",
+            "leopard-1764390227_692a75539f949.jpg",
+            "leopard-1764390227_692a75539f9af.jpg"
+        ],
+        "syllables": [
+            "ле",
+            "о",
+            "пард"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "пантера",
+        "img": "pantera-1764390261_692a757566253.jpg",
+        "possibleImages": [
+            "pantera-1764390261_692a75756611e.jpg",
+            "pantera-1764390261_692a7575661d5.jpg",
+            "pantera-1764390261_692a757566253.jpg",
+            "pantera-1764390261_692a7575662c6.jpg",
+            "pantera-1764390261_692a75756644d.jpg"
+        ],
+        "syllables": [
+            "пан",
+            "те",
+            "ра"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "єнот",
+        "img": "yenot-1764390287_692a758f9ac2f.jpg",
+        "possibleImages": [
+            "yenot-1764390287_692a758f9a763.jpg",
+            "yenot-1764390287_692a758f9a9a4.jpg",
+            "yenot-1764390287_692a758f9ab29.jpg",
+            "yenot-1764390287_692a758f9ac2f.jpg",
+            "yenot-1764390287_692a758f9ad3f.jpg",
+            "yenot-1764390287_692a758f9aea6.jpg"
+        ],
+        "syllables": [
+            "є",
+            "нот"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "коала",
+        "img": "koala-1764390308_692a75a44217d.jpg",
+        "possibleImages": [
+            "koala-1764390308_692a75a44217d.jpg",
+            "koala-1764390308_692a75a44237d.jpg",
+            "koala-1764390308_692a75a442527.jpg",
+            "koala-1764390308_692a75a4426b0.jpg",
+            "koala-1764390308_692a75a44285a.jpg"
+        ],
+        "syllables": [
+            "ко",
+            "а",
+            "ла"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "зубр",
+        "img": "zubr-1764390325_692a75b5af1d0.jpg",
+        "possibleImages": [
+            "zubr-1764390325_692a75b5aef35.jpg",
+            "zubr-1764390325_692a75b5af1d0.jpg",
+            "zubr-1764390325_692a75b5af40a.jpg",
+            "zubr-1764390325_692a75b5af635.jpg"
+        ],
+        "syllables": [
+            "зубр"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "з",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "лемур",
+        "img": "lemur-1764390343_692a75c77b4df.jpg",
+        "possibleImages": [
+            "lemur-1764390343_692a75c77b3ff.jpg",
+            "lemur-1764390343_692a75c77b4df.jpg",
+            "lemur-1764390343_692a75c77b573.jpg",
+            "lemur-1764390343_692a75c77b5ee.jpg",
+            "lemur-1764390343_692a75c77b664.jpg"
+        ],
+        "syllables": [
+            "ле",
+            "мур"
+        ],
+        "tags": [
+            "дикі тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "хом'як",
+        "img": "khom-yak-1764390364_692a75dc0ab48.jpg",
+        "possibleImages": [
+            "khom-yak-1764390364_692a75dc0aa97.jpg",
+            "khom-yak-1764390364_692a75dc0ab48.jpg",
+            "khom-yak-1764390364_692a75dc0abb8.jpg",
+            "khom-yak-1764390364_692a75dc0ac18.jpg"
+        ],
+        "syllables": [
+            "хом",
+            "'як"
+        ],
+        "tags": [
+            "домашні тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "бик",
+        "img": "byk-1764390386_692a75f22dcf0.jpg",
+        "possibleImages": [
+            "byk-1764390386_692a75f22d990.jpg",
+            "byk-1764390386_692a75f22da26.jpg",
+            "byk-1764390386_692a75f22da9f.jpg",
+            "byk-1764390386_692a75f22dbd1.jpg",
+            "byk-1764390386_692a75f22dc6b.jpg",
+            "byk-1764390386_692a75f22dcf0.jpg"
+        ],
+        "syllables": [
+            "бик"
+        ],
+        "tags": [
+            "домашні тварини",
+            "тварини"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "шиншила",
+        "img": "shynshyla-1764390440_692a7628889bd.jpg",
+        "possibleImages": [
+            "shynshyla-1764390440_692a7628887fd.jpg",
+            "shynshyla-1764390440_692a7628889bd.jpg",
+            "shynshyla-1764390440_692a762888a7a.jpg",
+            "shynshyla-1764390440_692a762888b16.jpg"
+        ],
+        "syllables": [
+            "шин",
+            "ши",
+            "ла"
+        ],
+        "tags": [
+            "домашні тварини",
+            "тварини"
+        ],
+        "letters": [
+            {
+                "letter": "ш",
+                "position": "unknown"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "коник",
+        "img": "konyk-1764390461_692a763d17f46.jpg",
+        "possibleImages": [
+            "konyk-1764390461_692a763d17afe.jpg",
+            "konyk-1764390461_692a763d17e07.jpg",
+            "konyk-1764390461_692a763d17f46.jpg"
+        ],
+        "syllables": [
+            "ко",
+            "ник"
+        ],
+        "tags": [
+            "комахи"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "джміль",
+        "img": "dzhmil-1764390487_692a76570a0a5.jpg",
+        "possibleImages": [
+            "dzhmil-1764390487_692a76570a0a5.jpg",
+            "dzhmil-1764390487_692a76570a15a.jpg",
+            "dzhmil-1764390487_692a76570a203.jpg",
+            "dzhmil-1764390487_692a76570a277.jpg"
+        ],
+        "syllables": [
+            "джміль"
+        ],
+        "tags": [
+            "комахи"
+        ],
+        "letters": [
+            {
+                "letter": "ж",
+                "position": "middle"
+            },
+            {
+                "letter": "л",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "сонечко",
+        "img": "sonechko-1764390507_692a766b99ee8.jpg",
+        "possibleImages": [
+            "sonechko-1764390507_692a766b99d8c.jpg",
+            "sonechko-1764390507_692a766b99ee8.jpg",
+            "sonechko-1764390507_692a766b9a1dc.jpg"
+        ],
+        "syllables": [
+            "со",
+            "неч",
+            "ко"
+        ],
+        "tags": [
+            "комахи"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "ч",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "бабка",
+        "img": "babka-1764390523_692a767b967db.jpg",
+        "possibleImages": [
+            "babka-1764390523_692a767b967db.jpg",
+            "babka-1764390523_692a767b968b0.jpg",
+            "babka-1764390523_692a767b96a2b.jpg"
+        ],
+        "syllables": [
+            "баб",
+            "ка"
+        ],
+        "tags": [
+            "комахи"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "вчитель",
+        "img": "vchytel-1764390543_692a768fda3cd.jpg",
+        "possibleImages": [
+            "vchytel-1764390543_692a768fda0ef.jpg",
+            "vchytel-1764390543_692a768fda210.jpg",
+            "vchytel-1764390543_692a768fda2da.jpg",
+            "vchytel-1764390543_692a768fda3cd.jpg",
+            "vchytel-1764390543_692a768fda4a2.jpg"
+        ],
+        "syllables": [
+            "вчи",
+            "тель"
+        ],
+        "tags": [
+            "професії"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
+            {
+                "letter": "ч",
+                "position": "middle"
+            },
+            {
+                "letter": "л",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "кухар",
+        "img": "kukhar-1764390563_692a76a3d265d.jpg",
+        "possibleImages": [
+            "kukhar-1764390563_692a76a3d265d.jpg",
+            "kukhar-1764390563_692a76a3d26ee.jpg",
+            "kukhar-1764390563_692a76a3d2777.jpg"
+        ],
+        "syllables": [
+            "ку",
+            "хар"
+        ],
+        "tags": [
+            "професії"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "співак",
+        "img": "spivak-1764390579_692a76b36e95b.jpg",
+        "possibleImages": [
+            "spivak-1764390579_692a76b36e1c4.jpg",
+            "spivak-1764390579_692a76b36e376.jpg",
+            "spivak-1764390579_692a76b36e4f4.jpg",
+            "spivak-1764390579_692a76b36e650.jpg",
+            "spivak-1764390579_692a76b36e7df.jpg",
+            "spivak-1764390579_692a76b36e95b.jpg"
+        ],
+        "syllables": [
+            "спі",
+            "вак"
+        ],
+        "tags": [
+            "професії"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "в",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "поліцейський",
+        "img": "politseyskyy-1764390623_692a76df25dbb.jpg",
+        "possibleImages": [
+            "politseyskyy-1764390623_692a76df25dbb.jpg",
+            "politseyskyy-1764390623_692a76df25e93.jpg",
+            "politseyskyy-1764390623_692a76df25f2f.jpg"
+        ],
+        "syllables": [
+            "по",
+            "лі",
+            "цей",
+            "ський"
+        ],
+        "tags": [
+            "професії"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            },
+            {
+                "letter": "ц",
+                "position": "middle"
+            },
+            {
+                "letter": "с",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "перукар",
+        "img": "perukar-1764390660_692a7704029ec.jpg",
+        "possibleImages": [
+            "perukar-1764390660_692a7704028cb.jpg",
+            "perukar-1764390660_692a770402964.jpg",
+            "perukar-1764390660_692a7704029ec.jpg",
+            "perukar-1764390660_692a770402adb.jpg"
+        ],
+        "syllables": [
+            "пе",
+            "ру",
+            "кар"
+        ],
+        "tags": [
+            "професії"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "unknown"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "капуста",
+        "img": "kapusta-1764390675_692a771326e46.jpg",
+        "possibleImages": [
+            "kapusta-1764390675_692a771326e46.jpg",
+            "kapusta-1764390675_692a771326e9b.jpg",
+            "kapusta-1764390675_692a771326f34.jpg",
+            "kapusta-1764390675_692a771326f6d.jpg"
+        ],
+        "syllables": [
+            "ка",
+            "пус",
+            "та"
+        ],
+        "tags": [
+            "овочі",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "броколі",
+        "img": "brokoli-1764390701_692a772dbedb7.jpg",
+        "possibleImages": [
+            "brokoli-1764390701_692a772dbecb5.jpg",
+            "brokoli-1764390701_692a772dbedb7.jpg",
+            "brokoli-1764390701_692a772dbee82.jpg"
+        ],
+        "syllables": [
+            "бро",
+            "ко",
+            "лі"
+        ],
+        "tags": [
+            "овочі",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "халат",
+        "img": "khalat-1764390726_692a7746a73e6.jpg",
+        "possibleImages": [
+            "khalat-1764390726_692a7746a73e6.jpg",
+            "khalat-1764390726_692a7746a7447.jpg",
+            "khalat-1764390726_692a7746a7491.jpg",
+            "khalat-1764390726_692a7746a74d1.jpg",
+            "khalat-1764390726_692a7746a759f.jpg",
+            "khalat-1764390726_692a7746a7607.jpg"
+        ],
+        "syllables": [
+            "ха",
+            "лат"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "спідниця",
+        "img": "spidnytsya-1764390757_692a7765ef158.jpg",
+        "possibleImages": [
+            "spidnytsya-1764390757_692a7765ef0d0.jpg",
+            "spidnytsya-1764390757_692a7765ef158.jpg",
+            "spidnytsya-1764390757_692a7765ef1c5.jpg",
+            "spidnytsya-1764390757_692a7765ef22c.jpg"
+        ],
+        "syllables": [
+            "спід",
+            "ни",
+            "ця"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "ц",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "сукня",
+        "img": "suknya-1764390777_692a777959b7d.jpg",
+        "possibleImages": [
+            "suknya-1764390777_692a7779599c2.jpg",
+            "suknya-1764390777_692a777959a86.jpg",
+            "suknya-1764390777_692a777959b14.jpg",
+            "suknya-1764390777_692a777959b7d.jpg",
+            "suknya-1764390777_692a777959d1e.jpg",
+            "suknya-1764390777_692a777959d9a.jpg",
+            "suknya-1764390777_692a777959e03.jpg"
+        ],
+        "syllables": [
+            "сук",
+            "ня"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "светр",
+        "img": "svetr-1764390818_692a77a2a0aa5.jpg",
+        "possibleImages": [
+            "svetr-1764390818_692a77a2a074d.jpg",
+            "svetr-1764390818_692a77a2a0807.jpg",
+            "svetr-1764390818_692a77a2a0880.jpg",
+            "svetr-1764390818_692a77a2a08fa.jpg",
+            "svetr-1764390818_692a77a2a0978.jpg",
+            "svetr-1764390818_692a77a2a0a16.jpg",
+            "svetr-1764390818_692a77a2a0aa5.jpg"
+        ],
+        "syllables": [
+            "светр"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "в",
+                "position": "middle"
+            },
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "футболка",
+        "img": "futbolka-1764390834_692a77b2400ad.jpg",
+        "possibleImages": [
+            "futbolka-1764390834_692a77b23fcef.jpg",
+            "futbolka-1764390834_692a77b23fe0e.jpg",
+            "futbolka-1764390834_692a77b23fefa.jpg",
+            "futbolka-1764390834_692a77b2400ad.jpg"
+        ],
+        "syllables": [
+            "фут",
+            "бол",
+            "ка"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "куртка",
+        "img": "kurtka-1764390853_692a77c54081f.jpg",
+        "possibleImages": [
+            "kurtka-1764390853_692a77c540701.jpg",
+            "kurtka-1764390853_692a77c54081f.jpg",
+            "kurtka-1764390853_692a77c5408df.jpg",
+            "kurtka-1764390853_692a77c54098f.jpg",
+            "kurtka-1764390853_692a77c540a2e.jpg"
+        ],
+        "syllables": [
+            "кур",
+            "тка"
+        ],
+        "tags": [
+            "одяг"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "сковорідка",
+        "img": "skovoridka-1764390877_692a77dd429e3.jpg",
+        "possibleImages": [
+            "skovoridka-1764390877_692a77dd429a3.jpg",
+            "skovoridka-1764390877_692a77dd429e3.jpg",
+            "skovoridka-1764390877_692a77dd42a09.jpg",
+            "skovoridka-1764390877_692a77dd42a2e.jpg",
+            "skovoridka-1764390877_692a77dd42a53.jpg"
+        ],
+        "syllables": [
+            "ско",
+            "во",
+            "рід",
+            "ка"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "в",
+                "position": "middle"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "глечик",
+        "img": "glechyk-1764390896_692a77f091db9.jpg",
+        "possibleImages": [
+            "glechyk-1764390896_692a77f091acc.jpg",
+            "glechyk-1764390896_692a77f091bfe.jpg",
+            "glechyk-1764390896_692a77f091d0a.jpg",
+            "glechyk-1764390896_692a77f091db9.jpg"
+        ],
+        "syllables": [
+            "гле",
+            "чик"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            },
+            {
+                "letter": "ч",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "чайник",
+        "img": "chaynyk-1764390911_692a77ffec1ed.jpg",
+        "possibleImages": [
+            "chaynyk-1764390911_692a77ffec1ed.jpg",
+            "chaynyk-1764390911_692a77ffec2d7.jpg",
+            "chaynyk-1764390911_692a77ffec371.jpg",
+            "chaynyk-1764390911_692a77ffec406.jpg"
+        ],
+        "syllables": [
+            "чай",
+            "ник"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "ч",
+                "position": "begin"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "виделка",
+        "img": "vydelka-1764390929_692a78112f43b.jpg",
+        "possibleImages": [
+            "vydelka-1764390929_692a78112f340.jpg",
+            "vydelka-1764390929_692a78112f3cf.jpg",
+            "vydelka-1764390929_692a78112f43b.jpg",
+            "vydelka-1764390929_692a78112f495.jpg",
+            "vydelka-1764390929_692a78112f4ec.jpg",
+            "vydelka-1764390929_692a78112f53e.jpg"
+        ],
+        "syllables": [
+            "ви",
+            "дел",
+            "ка"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "begin"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "склянка",
+        "img": "sklyanka-1764390950_692a782662e3d.jpg",
+        "possibleImages": [
+            "sklyanka-1764390950_692a782662d02.jpg",
+            "sklyanka-1764390950_692a782662d50.jpg",
+            "sklyanka-1764390950_692a782662d7f.jpg",
+            "sklyanka-1764390950_692a782662da8.jpg",
+            "sklyanka-1764390950_692a782662dd0.jpg",
+            "sklyanka-1764390950_692a782662e3d.jpg",
+            "sklyanka-1764390950_692a782662e71.jpg"
+        ],
+        "syllables": [
+            "склян",
+            "ка"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "снігур",
+        "img": "snigur-1764390975_692a783f0883c.jpg",
+        "possibleImages": [
+            "snigur-1764390975_692a783f0862d.jpg",
+            "snigur-1764390975_692a783f08758.jpg",
+            "snigur-1764390975_692a783f087c0.jpg",
+            "snigur-1764390975_692a783f08809.jpg",
+            "snigur-1764390975_692a783f0883c.jpg"
+        ],
+        "syllables": [
+            "сні",
+            "гур"
+        ],
+        "tags": [
+            "птахи"
+        ],
+        "letters": [
+            {
+                "letter": "с",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "павич",
+        "img": "pavych-1764390993_692a78511f4e0.jpg",
+        "possibleImages": [
+            "pavych-1764390993_692a78511eee9.jpg",
+            "pavych-1764390993_692a78511f0e7.jpg",
+            "pavych-1764390993_692a78511f2ae.jpg",
+            "pavych-1764390993_692a78511f423.jpg",
+            "pavych-1764390993_692a78511f4e0.jpg",
+            "pavych-1764390993_692a78511f5a8.jpg"
+        ],
+        "syllables": [
+            "па",
+            "вич"
+        ],
+        "tags": [
+            "птахи"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "middle"
+            },
+            {
+                "letter": "ч",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "фламінго",
+        "img": "flamingo-1764391010_692a7862f3c22.jpg",
+        "possibleImages": [
+            "flamingo-1764391010_692a7862f3c22.jpg",
+            "flamingo-1764391010_692a7862f3d73.jpg"
+        ],
+        "syllables": [
+            "фла",
+            "мін",
+            "го"
+        ],
+        "tags": [
+            "птахи"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "пінгвін",
+        "img": "pingvin-1764391027_692a7873d1614.jpg",
+        "possibleImages": [
+            "pingvin-1764391027_692a7873d14ff.jpg",
+            "pingvin-1764391027_692a7873d15a4.jpg",
+            "pingvin-1764391027_692a7873d1614.jpg",
+            "pingvin-1764391027_692a7873d166a.jpg"
+        ],
+        "syllables": [
+            "пін",
+            "гвін"
+        ],
+        "tags": [
+            "птахи"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "тролейбус",
+        "img": "troleybus-1764391047_692a78878c6a0.jpg",
+        "possibleImages": [
+            "troleybus-1764391047_692a78878c529.jpg",
+            "troleybus-1764391047_692a78878c5f7.jpg",
+            "troleybus-1764391047_692a78878c6a0.jpg",
+            "troleybus-1764391047_692a78878c71f.jpg"
+        ],
+        "syllables": [
+            "тро",
+            "лей",
+            "бус"
+        ],
+        "tags": [
+            "транспорт"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            },
+            {
+                "letter": "с",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "трамвай",
+        "img": "tramvay-1764391068_692a789c6b5de.jpg",
+        "possibleImages": [
+            "tramvay-1764391068_692a789c6b5de.jpg",
+            "tramvay-1764391068_692a789c6b6ea.jpg",
+            "tramvay-1764391068_692a789c6b797.jpg",
+            "tramvay-1764391068_692a789c6b843.jpg"
+        ],
+        "syllables": [
+            "трам",
+            "вай"
+        ],
+        "tags": [
+            "транспорт"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "в",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "метро",
+        "img": "metro-1764391084_692a78ac562f0.jpg",
+        "possibleImages": [
+            "metro-1764391084_692a78ac562f0.jpg",
+            "metro-1764391084_692a78ac5637e.jpg"
+        ],
+        "syllables": [
+            "мет",
+            "ро"
+        ],
+        "tags": [
+            "транспорт"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "банан",
+        "img": "banan-1764391107_692a78c39a084.jpg",
+        "possibleImages": [
+            "banan-1764391107_692a78c399eed.jpg",
+            "banan-1764391107_692a78c399f78.jpg",
+            "banan-1764391107_692a78c399fcf.jpg",
+            "banan-1764391107_692a78c39a028.jpg",
+            "banan-1764391107_692a78c39a084.jpg",
+            "banan-1764391107_692a78c39a0e4.jpg"
+        ],
+        "syllables": [
+            "ба",
+            "нан"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "яблуко",
+        "img": "yabluko-1764391131_692a78db478f0.jpg",
+        "possibleImages": [
+            "yabluko-1764391131_692a78db475c3.jpg",
+            "yabluko-1764391131_692a78db4779a.jpg",
+            "yabluko-1764391131_692a78db478f0.jpg",
+            "yabluko-1764391131_692a78db47a7f.jpg"
+        ],
+        "syllables": [
+            "яб",
+            "лу",
+            "ко"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "ківі",
+        "img": "kivi-1764391148_692a78eceae59.jpg",
+        "possibleImages": [
+            "kivi-1764391148_692a78eceae59.jpg",
+            "kivi-1764391148_692a78eceafd8.jpg",
+            "kivi-1764391148_692a78eceb070.jpg",
+            "kivi-1764391148_692a78eceb0f2.jpg"
+        ],
+        "syllables": [
+            "кі",
+            "ві"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "манго",
+        "img": "mango-1764391170_692a7902ef4a4.jpg",
+        "possibleImages": [
+            "mango-1764391170_692a7902ef32f.jpg",
+            "mango-1764391170_692a7902ef3f7.jpg",
+            "mango-1764391170_692a7902ef4a4.jpg",
+            "mango-1764391170_692a7902ef578.jpg"
+        ],
+        "syllables": [
+            "ман",
+            "го"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "папая",
+        "img": "papaya-1764391185_692a7911d7848.jpg",
+        "possibleImages": [
+            "papaya-1764391185_692a7911d772a.jpg",
+            "papaya-1764391185_692a7911d7848.jpg",
+            "papaya-1764391185_692a7911d7910.jpg",
+            "papaya-1764391185_692a7911d799b.jpg"
+        ],
+        "syllables": [
+            "па",
+            "па",
+            "я"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [],
+        "translate": ""
+    },
+    {
+        "word": "чорниця",
+        "img": "chornytsya-1764391204_692a7924819c3.jpg",
+        "possibleImages": [
+            "chornytsya-1764391204_692a792481959.jpg",
+            "chornytsya-1764391204_692a7924819c3.jpg"
+        ],
+        "syllables": [
+            "чор",
+            "ни",
+            "ця"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "ч",
+                "position": "begin"
+            },
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "ц",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "айва",
+        "img": "ayva-1764391221_692a79352e8cc.jpg",
+        "possibleImages": [
+            "ayva-1764391221_692a79352e83c.jpg",
+            "ayva-1764391221_692a79352e8cc.jpg"
+        ],
+        "syllables": [
+            "ай",
+            "ва"
+        ],
+        "tags": [
+            "фрукти/ягоди",
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "роли",
+        "img": "roly-1764391275_692a796ba729c.jpg",
+        "possibleImages": [
+            "roly-1764391275_692a796ba70fa.jpg",
+            "roly-1764391275_692a796ba729c.jpg",
+            "roly-1764391275_692a796ba7441.jpg",
+            "roly-1764391275_692a796ba757c.jpg"
+        ],
+        "syllables": [
+            "ро",
+            "ли"
+        ],
+        "tags": [
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "begin"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "бутерброд",
+        "img": "buterbrod-1764391298_692a79820b51b.jpg",
+        "possibleImages": [
+            "buterbrod-1764391298_692a79820b51b.jpg",
+            "buterbrod-1764391298_692a79820b5dc.jpg",
+            "buterbrod-1764391298_692a79820b654.jpg"
+        ],
+        "syllables": [
+            "бу",
+            "тер",
+            "брод"
+        ],
+        "tags": [
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "макарони",
+        "img": "makarony-1764391328_692a79a04044a.jpg",
+        "possibleImages": [
+            "makarony-1764391328_692a79a0402aa.jpg",
+            "makarony-1764391328_692a79a04044a.jpg"
+        ],
+        "syllables": [
+            "ма",
+            "ка",
+            "ро",
+            "ни"
+        ],
+        "tags": [
+            "їжа"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "ірис",
+        "img": "irys-1764391346_692a79b288646.jpg",
+        "possibleImages": [
+            "irys-1764391346_692a79b28856a.jpg",
+            "irys-1764391346_692a79b288646.jpg",
+            "irys-1764391346_692a79b2886d1.jpg"
+        ],
+        "syllables": [
+            "і",
+            "рис"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "с",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "тюльпан",
+        "img": "tyulpan-1764391366_692a79c6799a8.jpg",
+        "possibleImages": [
+            "tyulpan-1764391366_692a79c6798a5.jpg",
+            "tyulpan-1764391366_692a79c6798ff.jpg",
+            "tyulpan-1764391366_692a79c67993c.jpg",
+            "tyulpan-1764391366_692a79c679972.jpg",
+            "tyulpan-1764391366_692a79c6799a8.jpg"
+        ],
+        "syllables": [
+            "тюль",
+            "пан"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "конвалія",
+        "img": "konvaliya-1764391391_692a79df1f214.jpg",
+        "possibleImages": [
+            "konvaliya-1764391391_692a79df1f191.jpg",
+            "konvaliya-1764391391_692a79df1f214.jpg",
+            "konvaliya-1764391391_692a79df1f278.jpg"
+        ],
+        "syllables": [
+            "кон",
+            "ва",
+            "лі",
+            "я"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "в",
+                "position": "middle"
+            },
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "кульбаба",
+        "img": "kulbaba-1764391420_692a79fc28c93.jpg",
+        "possibleImages": [
+            "kulbaba-1764391420_692a79fc28bab.jpg",
+            "kulbaba-1764391420_692a79fc28c93.jpg",
+            "kulbaba-1764391420_692a79fc28d1b.jpg"
+        ],
+        "syllables": [
+            "куль",
+            "ба",
+            "ба"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "орхідея",
+        "img": "orkhideya-1764391440_692a7a10d9681.jpg",
+        "possibleImages": [
+            "orkhideya-1764391440_692a7a10d9542.jpg",
+            "orkhideya-1764391440_692a7a10d960f.jpg",
+            "orkhideya-1764391440_692a7a10d9681.jpg",
+            "orkhideya-1764391440_692a7a10d96e8.jpg"
+        ],
+        "syllables": [
+            "ор",
+            "хі",
+            "де",
+            "я"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "нарцис",
+        "img": "nartsys-1764391462_692a7a26e9c63.jpg",
+        "possibleImages": [
+            "nartsys-1764391462_692a7a26e9b7a.jpg",
+            "nartsys-1764391462_692a7a26e9c63.jpg",
+            "nartsys-1764391462_692a7a26e9d0a.jpg",
+            "nartsys-1764391462_692a7a26e9d79.jpg"
+        ],
+        "syllables": [
+            "нар",
+            "цис"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "р",
+                "position": "middle"
+            },
+            {
+                "letter": "ц",
+                "position": "middle"
+            },
+            {
+                "letter": "с",
+                "position": "end"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "фіалка",
+        "img": "fialka-1764391507_692a7a535f2e7.jpg",
+        "possibleImages": [
+            "fialka-1764391507_692a7a535f02d.jpg",
+            "fialka-1764391507_692a7a535f199.jpg",
+            "fialka-1764391507_692a7a535f23c.jpg",
+            "fialka-1764391507_692a7a535f2e7.jpg",
+            "fialka-1764391507_692a7a535f387.jpg"
+        ],
+        "syllables": [
+            "фі",
+            "ал",
+            "ка"
+        ],
+        "tags": [
+            "рослини"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
+    },
+    {
+        "word": "пляшка",
+        "img": "plyashka-1764535456_692caca0349c1.png",
+        "possibleImages": [
+            "plyashka-1764535456_692caca0349c1.png"
+        ],
+        "syllables": [
+            "пляш",
+            "ка"
+        ],
+        "tags": [
+            "посуд"
+        ],
+        "letters": [
+            {
+                "letter": "л",
+                "position": "middle"
+            },
+            {
+                "letter": "ш",
+                "position": "middle"
+            }
+        ],
+        "translate": ""
     }
-];
+]
